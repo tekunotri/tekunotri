@@ -1,7 +1,7 @@
 you have lost the game
 
 
-currently learning: fullstack (java/typescript // java)
+currently learning: fullstack (javascript/typescript // java)
 
 
 discord: rc4322#8210
