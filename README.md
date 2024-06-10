@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekunotri&theme=tokyonight&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tekunotri&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tekunotri&theme=tokyonight&show_owner=true&text_bold=true&repo=technohud)](https://github.com/tekunotri/technohud)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tekunotri&theme=tokyonight&show_owner=true&text_bold=true&repo=m0re_techno)](https://github.com/tekunotri/m0re_techno)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tekunotri&theme=tokyonight&show_owner=true&text_bold=true&repo=rc-osuskins)](https://github.com/tekunotri/rc-osuskins)
